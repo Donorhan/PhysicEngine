@@ -1,0 +1,734 @@
+# depslib dependency file v1.0
+1254921478 source:d:\divers\epsi\epsi2\pti\c_2\src\main.c
+	"Main.h"
+
+1254921405 d:\divers\epsi\epsi2\pti\c_2\src\main.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Core.h"
+
+1256130941 d:\divers\epsi\epsi2\pti\c_2\src\core.h
+	<stdio.h>
+	<stdlib.h>
+	"Event.h"
+	"Graphic.h"
+	"Object.h"
+	"Physic.h"
+
+1256742160 source:d:\divers\epsi\epsi2\pti\c_2\src\event.c
+	"Event.h"
+
+1256136112 d:\divers\epsi\epsi2\pti\c_2\src\event.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Object.h"
+
+1256746350 source:d:\divers\epsi\epsi2\pti\c_2\src\core.c
+	"Core.h"
+
+1255113781 d:\divers\epsi\epsi2\pti\c_2\src\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Define.h"
+	"Object.h"
+
+1256746569 d:\divers\epsi\epsi2\pti\c_2\src\define.h
+
+1255526827 source:d:\divers\epsi\epsi2\pti\c_2\src\graphic.c
+	"Graphic.h"
+
+1256133963 d:\divers\epsi\epsi2\pti\c_2\src\object.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+
+1255266462 d:\divers\epsi\epsi2\pti\c_2\src\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1255266438 source:d:\divers\epsi\epsi2\pti\c_2\src\vector.c
+	"Vector.h"
+
+1256322521 source:d:\divers\epsi\epsi2\pti\c_2\src\object.c
+	"Object.h"
+
+1255287108 d:\divers\epsi\epsi2\pti\c_2\src\math.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vector.h"
+
+1256321856 source:d:\divers\epsi\epsi2\pti\c_2\src\math.c
+	"Math.h"
+
+1256136123 d:\divers\epsi\epsi2\pti\c_2\src\physic.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+	"Object.h"
+	"Physic/Finder.h"
+	"Physic/Solver.h"
+
+1256136137 source:d:\divers\epsi\epsi2\pti\c_2\src\physic.c
+	"Physic.h"
+
+1255267217 d:\divers\epsi\epsi2\pti\c_2\src\physic\finder.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1255269149 source:d:\divers\epsi\epsi2\pti\c_2\src\physic\finder.c
+	"Finder.h"
+
+1256746528 source:d:\divers\epsi\epsi2\pti\c_2\src\physic\solver.c
+	"Solver.h"
+
+1255269763 d:\divers\epsi\epsi2\pti\c_2\src\physic\solver.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1257757162 source:d:\divers\epsi\epsi2\pti\c - textures\src\event.c
+	"Event.h"
+
+1257764361 d:\divers\epsi\epsi2\pti\c - textures\src\event.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Object.h"
+	"Core.h"
+
+1256133963 d:\divers\epsi\epsi2\pti\c - textures\src\object.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+
+1255287108 d:\divers\epsi\epsi2\pti\c - textures\src\math.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vector.h"
+
+1255266462 d:\divers\epsi\epsi2\pti\c - textures\src\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1257969390 d:\divers\epsi\epsi2\pti\c - textures\src\define.h
+
+1258218103 source:d:\divers\epsi\epsi2\pti\c - textures\src\graphic.c
+	"Graphic.h"
+
+1257764232 d:\divers\epsi\epsi2\pti\c - textures\src\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Define.h"
+	"Object.h"
+	"Others/sdlglutils.h"
+
+1254921478 source:d:\divers\epsi\epsi2\pti\c - textures\src\main.c
+	"Main.h"
+
+1254921405 d:\divers\epsi\epsi2\pti\c - textures\src\main.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Core.h"
+
+1257761856 d:\divers\epsi\epsi2\pti\c - textures\src\core.h
+	<stdio.h>
+	<stdlib.h>
+	"Event.h"
+	"Graphic.h"
+	"Object.h"
+	"Physic.h"
+	"Others/sdlglutils.h"
+
+1256136123 d:\divers\epsi\epsi2\pti\c - textures\src\physic.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+	"Object.h"
+	"Physic/Finder.h"
+	"Physic/Solver.h"
+
+1255267217 d:\divers\epsi\epsi2\pti\c - textures\src\physic\finder.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1255269763 d:\divers\epsi\epsi2\pti\c - textures\src\physic\solver.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1256321856 source:d:\divers\epsi\epsi2\pti\c - textures\src\math.c
+	"Math.h"
+
+1257756957 source:d:\divers\epsi\epsi2\pti\c - textures\src\object.c
+	"Object.h"
+
+1258139014 source:d:\divers\epsi\epsi2\pti\c - textures\src\physic.c
+	"Physic.h"
+
+1257349387 source:d:\divers\epsi\epsi2\pti\c - textures\src\physic\finder.c
+	"Finder.h"
+
+1258139080 source:d:\divers\epsi\epsi2\pti\c - textures\src\physic\solver.c
+	"Solver.h"
+
+1255266438 source:d:\divers\epsi\epsi2\pti\c - textures\src\vector.c
+	"Vector.h"
+
+1258370975 source:d:\divers\epsi\epsi2\pti\c - textures\src\core.c
+	"Core.h"
+
+1257764387 d:\divers\epsi\epsi2\pti\c - textures\src\others\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1257761728 source:d:\divers\epsi\epsi2\pti\c - textures\src\others\sdlglutils.cpp
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/glu.h>
+	<cstring>
+	<cstdlib>
+
+1257764560 source:d:\divers\epsi\epsi2\pti\c - textures\src\others\sdlglutils.c
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/glu.h>
+
+1258370975 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\core.c
+	"Core.h"
+
+1257761856 d:\divers\epsi\epsi2\pti\c - textures - scene\src\core.h
+	<stdio.h>
+	<stdlib.h>
+	"Event.h"
+	"Graphic.h"
+	"Object.h"
+	"Physic.h"
+	"Others/sdlglutils.h"
+
+1257764361 d:\divers\epsi\epsi2\pti\c - textures - scene\src\event.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Object.h"
+	"Core.h"
+
+1256133963 d:\divers\epsi\epsi2\pti\c - textures - scene\src\object.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+
+1255287108 d:\divers\epsi\epsi2\pti\c - textures - scene\src\math.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vector.h"
+
+1255266462 d:\divers\epsi\epsi2\pti\c - textures - scene\src\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1259164546 d:\divers\epsi\epsi2\pti\c - textures - scene\src\define.h
+
+1257764232 d:\divers\epsi\epsi2\pti\c - textures - scene\src\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Define.h"
+	"Object.h"
+	"Others/sdlglutils.h"
+
+1257764387 d:\divers\epsi\epsi2\pti\c - textures - scene\src\others\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1256136123 d:\divers\epsi\epsi2\pti\c - textures - scene\src\physic.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+	"Object.h"
+	"Physic/Finder.h"
+	"Physic/Solver.h"
+
+1255267217 d:\divers\epsi\epsi2\pti\c - textures - scene\src\physic\finder.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1255269763 d:\divers\epsi\epsi2\pti\c - textures - scene\src\physic\solver.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1259164048 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\graphic.c
+	"Graphic.h"
+
+1254921478 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\main.c
+	"Main.h"
+
+1254921405 d:\divers\epsi\epsi2\pti\c - textures - scene\src\main.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Core.h"
+
+1259163988 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\math.c
+	"Math.h"
+
+1257756957 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\object.c
+	"Object.h"
+
+1257764560 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\others\sdlglutils.c
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/glu.h>
+
+1258139014 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\physic.c
+	"Physic.h"
+
+1257349387 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\physic\finder.c
+	"Finder.h"
+
+1258139080 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\physic\solver.c
+	"Solver.h"
+
+1255266438 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\vector.c
+	"Vector.h"
+
+1259164433 source:d:\divers\epsi\epsi2\pti\c - textures - scene\src\event.c
+	"Event.h"
+
+1271016026 source:c:\users\dono\desktop\moteur physique c\src\core.c
+	"Core.h"
+
+1257765456 c:\users\dono\desktop\moteur physique c\src\core.h
+	<stdio.h>
+	<stdlib.h>
+	"Event.h"
+	"Graphic.h"
+	"Object.h"
+	"Physic.h"
+	"Others/sdlglutils.h"
+
+1257767961 c:\users\dono\desktop\moteur physique c\src\event.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Object.h"
+	"Core.h"
+
+1256137563 c:\users\dono\desktop\moteur physique c\src\object.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+
+1255290708 c:\users\dono\desktop\moteur physique c\src\math.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vector.h"
+
+1255270062 c:\users\dono\desktop\moteur physique c\src\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1259168146 c:\users\dono\desktop\moteur physique c\src\define.h
+
+1257767832 c:\users\dono\desktop\moteur physique c\src\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Define.h"
+	"Object.h"
+	"Others/sdlglutils.h"
+
+1257767987 c:\users\dono\desktop\moteur physique c\src\others\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1271016199 c:\users\dono\desktop\moteur physique c\src\physic.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+	"Object.h"
+	"Physic/Finder.h"
+	"Physic/Solver.h"
+
+1255270817 c:\users\dono\desktop\moteur physique c\src\physic\finder.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1255273363 c:\users\dono\desktop\moteur physique c\src\physic\solver.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1271009522 source:c:\users\dono\desktop\moteur physique c\src\event.c
+	"Event.h"
+
+1259168129 source:c:\users\dono\desktop\moteur physique c\src\graphic.c
+	"Graphic.h"
+
+1254925078 source:c:\users\dono\desktop\moteur physique c\src\main.c
+	"Main.h"
+
+1254925005 c:\users\dono\desktop\moteur physique c\src\main.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Core.h"
+
+1259167588 source:c:\users\dono\desktop\moteur physique c\src\math.c
+	"Math.h"
+
+1257760557 source:c:\users\dono\desktop\moteur physique c\src\object.c
+	"Object.h"
+
+1271008688 source:c:\users\dono\desktop\moteur physique c\src\others\sdlglutils.c
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/glu.h>
+
+1257352987 source:c:\users\dono\desktop\moteur physique c\src\physic\finder.c
+	"Finder.h"
+
+1258142680 source:c:\users\dono\desktop\moteur physique c\src\physic\solver.c
+	"Solver.h"
+
+1255270038 source:c:\users\dono\desktop\moteur physique c\src\vector.c
+	"Vector.h"
+
+1271016850 source:c:\users\dono\desktop\moteur physique c\src\physic.c
+	"Physic.h"
+
+1271016026 source:c:\users\dono\desktop\pti\pti 3\src\core.c
+	"Core.h"
+
+1257765456 c:\users\dono\desktop\pti\pti 3\src\core.h
+	<stdio.h>
+	<stdlib.h>
+	"Event.h"
+	"Graphic.h"
+	"Object.h"
+	"Physic.h"
+	"Others/sdlglutils.h"
+
+1257767961 c:\users\dono\desktop\pti\pti 3\src\event.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Object.h"
+	"Core.h"
+
+1256137563 c:\users\dono\desktop\pti\pti 3\src\object.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+
+1255290708 c:\users\dono\desktop\pti\pti 3\src\math.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vector.h"
+
+1255270062 c:\users\dono\desktop\pti\pti 3\src\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1271617646 c:\users\dono\desktop\pti\pti 3\src\define.h
+
+1257767832 c:\users\dono\desktop\pti\pti 3\src\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Define.h"
+	"Object.h"
+	"Others/sdlglutils.h"
+
+1257767987 c:\users\dono\desktop\pti\pti 3\src\others\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1271016199 c:\users\dono\desktop\pti\pti 3\src\physic.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+	"Object.h"
+	"Physic/Finder.h"
+	"Physic/Solver.h"
+
+1255270817 c:\users\dono\desktop\pti\pti 3\src\physic\finder.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1255273363 c:\users\dono\desktop\pti\pti 3\src\physic\solver.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1271073767 source:c:\users\dono\desktop\pti\pti 3\src\event.c
+	"Event.h"
+
+1254925078 source:c:\users\dono\desktop\pti\pti 3\src\main.c
+	"Main.h"
+
+1254925005 c:\users\dono\desktop\pti\pti 3\src\main.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Core.h"
+
+1259167588 source:c:\users\dono\desktop\pti\pti 3\src\math.c
+	"Math.h"
+
+1257760557 source:c:\users\dono\desktop\pti\pti 3\src\object.c
+	"Object.h"
+
+1271008688 source:c:\users\dono\desktop\pti\pti 3\src\others\sdlglutils.c
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/glu.h>
+
+1271617307 source:c:\users\dono\desktop\pti\pti 3\src\physic.c
+	"Physic.h"
+
+1271322488 source:c:\users\dono\desktop\pti\pti 3\src\physic\finder.c
+	"Finder.h"
+
+1271619229 source:c:\users\dono\desktop\pti\pti 3\src\physic\solver.c
+	"Solver.h"
+
+1255270038 source:c:\users\dono\desktop\pti\pti 3\src\vector.c
+	"Vector.h"
+
+1271070794 source:c:\users\dono\desktop\pti\pti 3\src\graphic.c
+	"Graphic.h"
+
+1274542941 source:d:\divers\epsi\epsi2\pti\pti 3\src\core.c
+	"Core.h"
+
+1257765456 d:\divers\epsi\epsi2\pti\pti 3\src\core.h
+	<stdio.h>
+	<stdlib.h>
+	"Event.h"
+	"Graphic.h"
+	"Object.h"
+	"Physic.h"
+	"Others/sdlglutils.h"
+
+1274542965 d:\divers\epsi\epsi2\pti\pti 3\src\event.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"Object.h"
+	"Core.h"
+
+1256137563 d:\divers\epsi\epsi2\pti\pti 3\src\object.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+
+1255290708 d:\divers\epsi\epsi2\pti\pti 3\src\math.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Vector.h"
+
+1255270062 d:\divers\epsi\epsi2\pti\pti 3\src\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1274968673 d:\divers\epsi\epsi2\pti\pti 3\src\define.h
+
+1257767832 d:\divers\epsi\epsi2\pti\pti 3\src\graphic.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Define.h"
+	"Object.h"
+	"Others/sdlglutils.h"
+
+1257767987 d:\divers\epsi\epsi2\pti\pti 3\src\others\sdlglutils.h
+	<GL/gl.h>
+	<SDL/SDL.h>
+
+1274542902 d:\divers\epsi\epsi2\pti\pti 3\src\physic.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"Define.h"
+	"Vector.h"
+	"Object.h"
+	"Physic/Finder.h"
+	"Physic/Solver.h"
+
+1255270817 d:\divers\epsi\epsi2\pti\pti 3\src\physic\finder.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1255273363 d:\divers\epsi\epsi2\pti\pti 3\src\physic\solver.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Math.h"
+	"../Vector.h"
+	"../Object.h"
+
+1274543026 source:d:\divers\epsi\epsi2\pti\pti 3\src\event.c
+	"Event.h"
+
+1274945995 source:d:\divers\epsi\epsi2\pti\pti 3\src\graphic.c
+	"Graphic.h"
+
+1254925078 source:d:\divers\epsi\epsi2\pti\pti 3\src\main.c
+	"Main.h"
+
+1254925005 d:\divers\epsi\epsi2\pti\pti 3\src\main.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Core.h"
+
+1259167588 source:d:\divers\epsi\epsi2\pti\pti 3\src\math.c
+	"Math.h"
+
+1257760557 source:d:\divers\epsi\epsi2\pti\pti 3\src\object.c
+	"Object.h"
+
+1271008688 source:d:\divers\epsi\epsi2\pti\pti 3\src\others\sdlglutils.c
+	"sdlglutils.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<GL/glu.h>
+
+1274951969 source:d:\divers\epsi\epsi2\pti\pti 3\src\physic\finder.c
+	"Finder.h"
+
+1271619229 source:d:\divers\epsi\epsi2\pti\pti 3\src\physic\solver.c
+	"Solver.h"
+
+1255270038 source:d:\divers\epsi\epsi2\pti\pti 3\src\vector.c
+	"Vector.h"
+
+1274542874 source:d:\divers\epsi\epsi2\pti\pti 3\src\physic.c
+	"Physic.h"
+
